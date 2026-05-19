@@ -199,7 +199,9 @@ Although the interface shown is a prototype version, the core focus of the proje
 > Demonstration of the complete salary loan processing workflow, from borrower loan entry up to report generation.
 
 🎥 YouTube Demo Link:  
-`PASTE_YOUR_YOUTUBE_LINK_HERE`
+<a href="https://www.youtube.com/watch?v=B4u2zdgEsQc" target="_blank">
+  <img src="https://www.youtube.com/watch?v=B4u2zdgEsQc/hqdefault.jpg" alt="Watch the video on YouTube"/>
+</a>
 
 ---
 
