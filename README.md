@@ -209,7 +209,9 @@ Although the interface shown is a prototype version, the core focus of the proje
 > Demonstration of business loan application processing, transaction management, and report printing workflow.
 
 🎥 YouTube Demo Link:  
-`PASTE_YOUR_YOUTUBE_LINK_HERE`
+<a href="https://www.youtube.com/watch?v=69Goz_TktVU" target="_blank">
+  <img src="https://img.youtube.com/vi/69Goz_TktVU/hqdefault.jpg" alt="Watch the video on YouTube"/>
+</a>
 
 ---
 
