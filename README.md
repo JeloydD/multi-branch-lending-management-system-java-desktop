@@ -200,7 +200,7 @@ Although the interface shown is a prototype version, the core focus of the proje
 
 🎥 YouTube Demo Link:  
 <a href="https://www.youtube.com/watch?v=B4u2zdgEsQc" target="_blank">
-  <img src="https://www.youtube.com/watch?v=B4u2zdgEsQc/hqdefault.jpg" alt="Watch the video on YouTube"/>
+  <img src="https://img.youtube.com/vi/B4u2zdgEsQc/hqdefault.jpg" alt="Watch the video on YouTube"/>
 </a>
 
 ---
